@@ -6,7 +6,6 @@ Hello, I'm Elvis ✌🏼
 - 📫 How to reach me: sivle99@protonmail.com
 - ⚡ Hobbies: I love watching anime and reading manga/comics
 - 👨🏽‍💻 code editor: <img  alt="vs-code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
--->
 
 Connect with me! 
 
