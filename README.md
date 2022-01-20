@@ -9,4 +9,4 @@ Hello, I'm Elvis ✌🏼
 
 Connect with me! 
 
-[<img align="left" alt="spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />][https://open.spotify.com/user/437xrnb9g9661qic57obadbfu?si=dbeb6b1f2f944d58]
+[<img align="left" alt="spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />](https://open.spotify.com/user/437xrnb9g9661qic57obadbfu?si=dbeb6b1f2f944d58)
