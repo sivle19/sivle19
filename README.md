@@ -1,4 +1,4 @@
-Hello, I'm Elvis ✌🏼
+<h1>Hello, I'm Elvis ✌🏼</h1>
 
 - 🌱 I’m currently learning react and NodeJS
 - 👯 I’m looking to collaborate on any front end project (HTML, CSS, SASS, React)
