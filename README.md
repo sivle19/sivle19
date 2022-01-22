@@ -4,7 +4,6 @@
 - 👯 I’m looking to collaborate on any front end project (HTML, CSS, SASS, React)
 - 📫 How to reach me: sivle99@pm.me
 - ⚡ Hobbies: I love watching anime and reading manga/comics
-- 👨🏽‍💻 code editor: <img  alt="vs-code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 <h2>Connect with me!</h2>
 
