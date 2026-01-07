@@ -1,5 +1,5 @@
 <h1>Hello, I'm Elvis ✌🏼</h1>
-
+- 💼 Had taken a break from coding, but I am now currently looking to become a fullstack web dev (React.js, TypeScript, Node.js, Vue.js). 
 - 📫 How to reach me: sivle99@pm.me
 - ⚡ Hobbies: I love reading Manga and into warhammer40k
 
