@@ -1,9 +1,7 @@
 <h1>Hello, I'm Elvis ✌🏼</h1>
 
-- 🌱 I’m currently learning react and NodeJS
-- 👯 I’m looking to collaborate on any front end project (HTML, CSS, SASS, React)
 - 📫 How to reach me: sivle99@pm.me
-- ⚡ Hobbies: I love watching anime and reading manga/comics
+- ⚡ Hobbies: I love reading Manga and into warhammer40k
 
 <h2>Connect with me!</h2>
 
